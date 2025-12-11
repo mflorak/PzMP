@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# PyCharm/IntelliJ IDE files
+.idea/
+
+# Generated files from coverage
+.coverage
+htmlcov/
+
 # C extensions
 *.so
 
